@@ -1,0 +1,9 @@
+.main {
+    border: solid black;
+    background-color: lightblue;
+    width: 590px;
+    height: 300px;
+    margin-left: 230px;
+    margin-bottom: 300px; 
+    margin-top: 10px;
+}

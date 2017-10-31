@@ -1,0 +1,15 @@
+.nav {
+    background-color: orange;
+    width: 180px;
+    height: 300px;
+    text-align: center;
+    border: solid black;
+    float: left;
+
+}
+
+.button {
+    display: block;
+    text-align: center;
+
+}
